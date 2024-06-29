@@ -1,5 +1,4 @@
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Favench.com%2Fblogs%2Ftop-6-steps-for-successful-embedded-systems-design%2F&psig=AOvVaw0-OKOSKzrV6kY46WXbeqCH&ust=1719735455927000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiqrYuwgIcDFQAAAAAdAAAAABAE
-](https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp)
+https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp
 
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">An emerging Embedded Systems Engineer from Turkey</h3>
