@@ -1,4 +1,4 @@
-[https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp](https://3.imimg.com/data3/VD/HH/MY-9572255/embedded-system-500x500.jpg)
+[[https://avench.com/wp-content/uploads/2021/10/Avench-Blog-Top-6-Steps-for-Successful-Embedded-Systems-Design_Banner.webp](https://3.imimg.com/data3/VD/HH/MY-9572255/embedded-system-500x500.jpg)](https://i0.wp.com/sthua.edu.sg/wp-content/uploads/2016/10/embedded1.jpg?resize=1024%2C397&ssl=1)
 
 <h1 align="center">Hi 👋, I'm Ece</h1>
 <h3 align="center">An emerging Embedded Systems Engineer from Turkey</h3>
