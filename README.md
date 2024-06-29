@@ -20,7 +20,15 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="60" height="60"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> </p> <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry" width="60" height="60"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="60" height="60"/> </a> 
+  <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373441/arduino.svg" alt="arduino" width="60" height="60"/> </a> 
+  <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VS Code" width="60" height="60"/> </a> 
+  <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry" width="60" height="60"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/> </a> 
+</p>
 
 
 #GitHub Stats
