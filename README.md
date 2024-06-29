@@ -1,7 +1,7 @@
 ![MasterHead](https://www.areus.de/wp-content/uploads/2021/06/Header_EmbeddedTechnologien_1920x400.png)
 
 
-<h1 align="center">Welcome to Ece's gitHub</h1>
+<h1 align="center">⚡ Welcome to Ece's GitHub 👨‍💻</h1>
 <h3 align="center">An emerging Embedded System Engineer from Turkey</h3>
 
 - 🔭 I’m currently working on **Crystal Industrial**
