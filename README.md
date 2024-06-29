@@ -21,20 +21,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <img src="https://github.com/ececinar0/ececinar0/assets/115615388/d9942df1-9a50-4a02-889a-4909a82b218f" alt="STMicroelectronics" width="105" height="50"/> </a> 
-  <a href="https://worldvectorlogo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/atmel.svg" alt="Atmel" width="60" height="60"/> </a> 
+  <img src="https://github.com/ececinar0/ececinar0/assets/115615388/295565a3-bff4-40ac-9a7a-273c2457bcb8" alt="STMicroelectronics" width="60" height="60"/> </a> 
+  <img src="https://github.com/ececinar0/ececinar0/assets/115615388/cbd0f9fd-a9be-420f-a70c-e15fbb17f5bb" alt="ATMEL" width="60" height="60"/> </a> 
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry" width="60" height="60"/> </a> 
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VS Code" width="60" height="60"/> </a>
-  <a href="https://soft98.ir/" target="_blank" rel="noreferrer"> <img src="https://cdn.soft98.ir/2/STM32CubeIDE.png" alt="STM32CubeIDE" width="60" height="60"/> </a>
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373441/arduino.svg" alt="arduino" width="60" height="60"/> </a> 
+  <a href="https://soft98.ir/" target="_blank" rel="noreferrer"> <img src="https://cdn.soft98.ir/2/STM32CubeIDE.png" alt="STM32CubeIDE" width="60" height="60"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="60" height="60"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>  
 </p>
 
-<!--
-![stlogo](https://github.com/ececinar0/ececinar0/assets/115615388/d9942df1-9a50-4a02-889a-4909a82b218f)
--->
 
 #GitHub Stats
 
