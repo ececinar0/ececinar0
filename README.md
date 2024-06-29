@@ -32,11 +32,13 @@
 
 
 #GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ececinar0&show_icons=true&locale=en&layout=compact" alt="ececinar0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ececinar0&show_icons=true&locale=en" alt="ececinar0" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ececinar0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ececinar0" /><p>
+    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ececinar0&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="ececinar0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ececinar0&" alt="ececinar0" /></p>,
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ececinar0&theme=material-palenight&hide_border=false" alt="ececinar0" width="55%" /><p>
+  
 
 
 <picture>
@@ -44,3 +46,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ececinar0/ececinar0/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ececinar0/ececinar0/output/github-contribution-grid-snake.svg">
 </picture>
+
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ececinar0&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=ececinar0&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
