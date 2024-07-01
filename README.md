@@ -5,9 +5,9 @@
 <h3 align="center">An emerging Embedded System Engineer from Turkey</h3>
 
 
-<h5 align="center">🔭 I’m currently working on **Crystal Industrial**:</h5>
-<h5 align="center">🌱 I’m currently learning **Software**:</h5>
-<h5 align="center">📫 How to reach me **eemececinar@gmail.com**:</h5>
+<h5 align="center">🔭 I’m currently working on Crystal Industrial:</h5>
+<h5 align="center">🌱 I’m currently learning Software</h5>
+<h5 align="center">📫 How to reach me eemececinar@gmail.com</h5>
 <!--
 - 🔭 I’m currently working on **Crystal Industrial**
 -->
