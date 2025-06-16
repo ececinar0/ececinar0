@@ -34,7 +34,6 @@
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354258/raspberry-pi.svg" alt="Raspberry" width="60" height="60"/> </a> 
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452129/vs-code.svg" alt="VS Code" width="60" height="60"/> </a>
   <a href="https://www.svgrepo.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373441/arduino.svg" alt="arduino" width="60" height="60"/> </a> 
-  <a href="https://soft98.ir/" target="_blank" rel="noreferrer"> <img src="https://cdn.soft98.ir/2/STM32CubeIDE.png" alt="STM32CubeIDE" width="60" height="60"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/3374914?s=200&v=4" alt="KiCad" width="60" height="60"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>  
